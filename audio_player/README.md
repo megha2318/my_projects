@@ -1,4 +1,4 @@
-# media_booster_pr2_adv_f
+# Music Player
 
 A new Flutter project.
 
